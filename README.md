@@ -1,9 +1,9 @@
 # BOX
 <h1 align="center">Hi 👋, I'm a Bug catcher!</h1>
 <h3 align="center">A passionate about infosec and encryption.</h3>
-
+<div>
 <img align="right" width="400" scr="https://ibb.co/nj8Lvd7">
-
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buggcatcher&label=Profile%20views&color=0e75b6&style=flat" alt="buggcatcher" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buggcatcher" alt="buggcatcher" /></a> </p>
