@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm a Bug catcher!</h1>
 <h3 align="center">A passionate about infosec and encryption.</h3>
 <div>
-<img align="right" width="400" scr="https://ibb.co/nj8Lvd7">
+<img align="right" width="400" scr="[https://ibb.co/nj8Lvd7](https://i.ibb.co/8947pvr/image.jpg)">
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buggcatcher&label=Profile%20views&color=0e75b6&style=flat" alt="buggcatcher" /> </p>
 
