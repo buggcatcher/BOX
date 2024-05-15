@@ -9,23 +9,23 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [001](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVseTV3djk5YTllMGlwM3JtbmZjbXNobmNxdjJ0d2d3Zjl4c3NyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tSZ8WYow4V3biIpaq3/giphy.gif)
+- 🔭 I’m currently working on [001](https...link)
 
 - 🌱 I’m currently learning **C, Python, Django**
 
-- 👯 I’m looking to collaborate on [002](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVseTV3djk5YTllMGlwM3JtbmZjbXNobmNxdjJ0d2d3Zjl4c3NyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tSZ8WYow4V3biIpaq3/giphy.gif)
+- 👯 I’m looking to collaborate on [002](hhttp..link)
 
-- 🤝 I’m looking for help with [003](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVseTV3djk5YTllMGlwM3JtbmZjbXNobmNxdjJ0d2d3Zjl4c3NyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tSZ8WYow4V3biIpaq3/giphy.gif)
+- 🤝 I’m looking for help with [003](hhttp..link)
 
 - 👨‍💻 Library of functions available at [https://github.com/buggcatcher/libft](https://github.com/buggcatcher/libft)
 
-- 📝 I regularly write articles on [https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVseTV3djk5YTllMGlwM3JtbmZjbXNobmNxdjJ0d2d3Zjl4c3NyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tSZ8WYow4V3biIpaq3/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVseTV3djk5YTllMGlwM3JtbmZjbXNobmNxdjJ0d2d3Zjl4c3NyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tSZ8WYow4V3biIpaq3/giphy.gif)
+- 📝 I regularly write articles on [hhtp...link](hhttp..link)
 
 - 💬 Ask me about **Steganography**
 
 - 📫 How to reach me **zerozero_nullnull@proton.me**
 
-- 📄 Know about my experiences [https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVseTV3djk5YTllMGlwM3JtbmZjbXNobmNxdjJ0d2d3Zjl4c3NyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tSZ8WYow4V3biIpaq3/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVseTV3djk5YTllMGlwM3JtbmZjbXNobmNxdjJ0d2d3Zjl4c3NyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tSZ8WYow4V3biIpaq3/giphy.gif)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **:)**
 
