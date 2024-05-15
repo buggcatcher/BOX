@@ -4,6 +4,9 @@
 <table>
   <tr>
     <td style="vertical-align: top;">
+            <p>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact" alt="buggcatcher" />
+      </p>
       <h3 align="left">Languages and Tools:</h3>
       <p align="left">
         <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -37,9 +40,6 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
         </a>
       </p>
-      <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact" alt="buggcatcher" />
-      </p>
       <div>
         <p align="left">
           <img src="https://komarev.com/ghpvc/?username=buggcatcher&label=Profile%20views&color=0e75b6&style=flat" alt="buggcatcher" />
@@ -51,7 +51,7 @@
         </p>
       </div>
     </td>
-    <td style="orrizontal-align: bottom;">
+    <td style="vertical-align: top;">
       <img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVseTV3djk5YTllMGlwM3JtbmZjbXNobmNxdjJ0d2d3Zjl4c3NyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tSZ8WYow4V3biIpaq3/giphy.gif">
     </td>
   </tr>
