@@ -1,3 +1,4 @@
+<body style="background-color: lightblue;">
 <h1 align="center">Hi 👋, I'm a Bug catcher!</h1>
 <h3 align="center">A passionate about infosec and encryption.</h3>
 
