@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm a Bug catcher!</h1>
 <h3 align="center">A passionate about infosec and encryption.</h3>
-<body style="background-color: lightblue;">
+
 <table>
   <tr>
     <td style="vertical-align: top;">
@@ -57,4 +57,4 @@
   </tr>
 </table>
 
-
+<body style="background-color: lightblue;">
