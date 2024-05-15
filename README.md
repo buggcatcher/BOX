@@ -52,7 +52,7 @@
       </div>
     </td>
     <td style="vertical-align: top;">
-      <img align="right" width="400" src="[https://i.ibb.co/8947pvr/image.jpg" alt="Profile Image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVseTV3djk5YTllMGlwM3JtbmZjbXNobmNxdjJ0d2d3Zjl4c3NyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tSZ8WYow4V3biIpaq3/giphy.gif)">
+      <img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVseTV3djk5YTllMGlwM3JtbmZjbXNobmNxdjJ0d2d3Zjl4c3NyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tSZ8WYow4V3biIpaq3/giphy.gif">
     </td>
   </tr>
 </table>
